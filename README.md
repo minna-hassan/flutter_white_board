@@ -8,7 +8,7 @@ The project explores Flutter's low-level rendering capabilities by implementing 
 
 ## 🎬 Preview
 
-https://github.com/user-attachments/assets/b70924b1-0fc8-4203-b535-3b66027374b4
+https://github.com/user-attachments/assets/12b68df6-77da-47a4-8a39-ff669ae6ffe7
 
 ---
 
